@@ -1,0 +1,8 @@
+streamlit
+pandas
+pyarrow
+pyyaml
+scikit-learn
+rapidfuzz
+pytest
+ruff

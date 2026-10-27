@@ -1,0 +1,25 @@
+# Secrets (never commit these)
+.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Raw data (large; the processed table IS committed)
+data/raw/
+*.csv.gz
+*.zip
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
