@@ -1,0 +1,150 @@
+category,match,ingredient,confidence,note
+fragrance,exact,parfum,confident,fragrance mix itself
+fragrance,exact,linalool,confident,"EU ""26 fragrance allergens"" (labeling required)"
+fragrance,exact,limonene,confident,"EU ""26 fragrance allergens"" (labeling required)"
+fragrance,exact,d-limonene,confident,"EU ""26 fragrance allergens"" (labeling required)"
+fragrance,exact,citronellol,confident,"EU ""26 fragrance allergens"" (labeling required)"
+fragrance,exact,geraniol,confident,"EU ""26 fragrance allergens"" (labeling required)"
+fragrance,exact,citral,confident,"EU ""26 fragrance allergens"" (labeling required)"
+fragrance,exact,coumarin,confident,"EU ""26 fragrance allergens"" (labeling required)"
+fragrance,exact,eugenol,confident,"EU ""26 fragrance allergens"" (labeling required)"
+fragrance,exact,isoeugenol,confident,"EU ""26 fragrance allergens"" (labeling required)"
+fragrance,exact,benzyl salicylate,confident,"EU ""26 fragrance allergens"" (labeling required)"
+fragrance,exact,benzyl benzoate,confident,"EU ""26 fragrance allergens"" (labeling required)"
+fragrance,exact,benzyl cinnamate,confident,"EU ""26 fragrance allergens"" (labeling required)"
+fragrance,exact,hexyl cinnamal,confident,"EU ""26 fragrance allergens"" (labeling required)"
+fragrance,exact,amyl cinnamal,confident,"EU ""26 fragrance allergens"" (labeling required)"
+fragrance,exact,amylcinnamyl alcohol,confident,"EU ""26 fragrance allergens"" (labeling required)"
+fragrance,exact,alpha-isomethyl ionone,confident,"EU ""26 fragrance allergens"" (labeling required)"
+fragrance,exact,butylphenyl methylpropional,confident,"EU ""26 fragrance allergens"" (labeling required)"
+fragrance,exact,hydroxycitronellal,confident,"EU ""26 fragrance allergens"" (labeling required)"
+fragrance,exact,hydroxyisohexyl 3-cyclohexene carboxaldehyde,confident,"EU ""26 fragrance allergens"" (labeling required)"
+fragrance,exact,cinnamal,confident,"EU ""26 fragrance allergens"" (labeling required)"
+fragrance,exact,cinnamyl alcohol,confident,"EU ""26 fragrance allergens"" (labeling required)"
+fragrance,exact,farnesol,confident,"EU ""26 fragrance allergens"" (labeling required)"
+fragrance,exact,anise alcohol,confident,"EU ""26 fragrance allergens"" (labeling required)"
+fragrance,exact,evernia prunastri extract,confident,"EU ""26 fragrance allergens"" (labeling required)"
+fragrance,exact,evernia furfuracea extract,confident,"EU ""26 fragrance allergens"" (labeling required)"
+fragrance,exact,methyl 2-octynoate,confident,"EU ""26 fragrance allergens"" (labeling required)"
+fragrance,exact,benzyl alcohol,confident,"EU fragrance allergen, but also a preservative (listed in both categories)"
+fragrance,exact,menthol,confident,"scent/cooling ingredient, not on the original EU 26 list (approved)"
+fragrance,exact,menthyl lactate,confident,"scent/cooling ingredient, not on the original EU 26 list (approved)"
+fragrance,exact,eucalyptol,confident,"scent/cooling ingredient, not on the original EU 26 list (approved)"
+fragrance,exact,camphor,confident,counts as fragrance (decision); not on the original EU 26 list
+fragrance,exact,tetramethyl acetyloctahydronaphthalenes,confident,counts as fragrance (decision); not on the original EU 26 list
+fragrance,exact,lavandula angustifolia (lavender) oil,confident,essential oil (decision: essential oils count as fragrance; they contain the allergens above)
+fragrance,exact,lavandula angustifolia oil,confident,essential oil (decision: essential oils count as fragrance; they contain the allergens above)
+fragrance,exact,lavandula angustifolia oil/lavender oil,confident,essential oil (decision: essential oils count as fragrance; they contain the allergens above)
+fragrance,exact,lavandula hybrida oil,confident,essential oil (decision: essential oils count as fragrance; they contain the allergens above)
+fragrance,exact,lavandula hybrida (lavandin) oil,confident,essential oil (decision: essential oils count as fragrance; they contain the allergens above)
+fragrance,exact,citrus aurantium dulcis (orange) peel oil,confident,essential oil (decision: essential oils count as fragrance; they contain the allergens above)
+fragrance,exact,citrus limon (lemon) peel oil,confident,essential oil (decision: essential oils count as fragrance; they contain the allergens above)
+fragrance,exact,citrus aurantium bergamia (bergamot) fruit oil,confident,essential oil (decision: essential oils count as fragrance; they contain the allergens above)
+fragrance,exact,pelargonium graveolens flower oil,confident,essential oil (decision: essential oils count as fragrance; they contain the allergens above)
+fragrance,exact,rosa damascena flower oil,confident,essential oil (decision: essential oils count as fragrance; they contain the allergens above)
+fragrance,exact,eucalyptus globulus leaf oil,confident,essential oil (decision: essential oils count as fragrance; they contain the allergens above)
+fragrance,exact,rosmarinus officinalis (rosemary) leaf oil,confident,essential oil (decision: essential oils count as fragrance; they contain the allergens above)
+fragrance,exact,mentha piperita (peppermint) oil,confident,essential oil (decision: essential oils count as fragrance; they contain the allergens above)
+fragrance,exact,mentha piperita oil,confident,essential oil (decision: essential oils count as fragrance; they contain the allergens above)
+fragrance,exact,melaleuca alternifolia leaf oil,confident,essential oil (decision: essential oils count as fragrance; they contain the allergens above)
+fragrance,exact,melaleuca alternifolia (tea tree) leaf oil,confident,essential oil (decision: essential oils count as fragrance; they contain the allergens above)
+fragrance,exact,cananga odorata flower oil,confident,essential oil (decision: essential oils count as fragrance; they contain the allergens above)
+fragrance,exact,cymbopogon schoenanthus oil,confident,essential oil (decision: essential oils count as fragrance; they contain the allergens above)
+fragrance,exact,cymbopogon martini oil,confident,essential oil (decision: essential oils count as fragrance; they contain the allergens above)
+preservatives,exact,phenoxyethanol,confident,classic preservative
+preservatives,exact,methylparaben,confident,classic preservative
+preservatives,exact,ethylparaben,confident,classic preservative
+preservatives,exact,propylparaben,confident,classic preservative
+preservatives,exact,butylparaben,confident,classic preservative
+preservatives,exact,isobutylparaben,confident,classic preservative
+preservatives,exact,isopropylparaben,confident,classic preservative
+preservatives,exact,sodium benzoate,confident,classic preservative
+preservatives,exact,potassium benzoate,confident,classic preservative
+preservatives,exact,benzoic acid,confident,classic preservative
+preservatives,exact,potassium sorbate,confident,classic preservative
+preservatives,exact,sorbic acid,confident,classic preservative
+preservatives,exact,dehydroacetic acid,confident,classic preservative
+preservatives,exact,sodium dehydroacetate,confident,classic preservative
+preservatives,exact,chlorphenesin,confident,classic preservative
+preservatives,exact,benzalkonium chloride,confident,classic preservative
+preservatives,exact,chloroxylenol,confident,classic preservative
+preservatives,exact,triclosan,confident,classic preservative
+preservatives,exact,iodopropynyl butylcarbamate,confident,classic preservative
+preservatives,exact,dmdm hydantoin,confident,formaldehyde releaser (common contact allergen)
+preservatives,exact,imidazolidinyl urea,confident,formaldehyde releaser (common contact allergen)
+preservatives,exact,diazolidinyl urea,confident,formaldehyde releaser (common contact allergen)
+preservatives,exact,quaternium-15,confident,formaldehyde releaser (common contact allergen)
+preservatives,exact,sodium hydroxymethylglycinate,confident,formaldehyde releaser (common contact allergen)
+preservatives,exact,bronopol,confident,formaldehyde releaser (common contact allergen)
+preservatives,exact,methylisothiazolinone,confident,isothiazolinone preservative (common contact allergen)
+preservatives,exact,methylchloroisothiazolinone,confident,isothiazolinone preservative (common contact allergen)
+preservatives,exact,benzisothiazolinone,confident,isothiazolinone preservative (common contact allergen)
+preservatives,exact,methyldibromo glutaronitrile,confident,isothiazolinone preservative (common contact allergen)
+preservatives,exact,benzyl alcohol,confident,also a fragrance allergen (listed in both categories)
+booster preservatives,exact,ethylhexylglycerin,confident,"multifunctional booster (decision: kept separate from ""preservatives"")"
+booster preservatives,exact,caprylyl glycol,confident,"multifunctional booster (decision: kept separate from ""preservatives"")"
+booster preservatives,exact,"1,2-hexanediol",confident,"multifunctional booster (decision: kept separate from ""preservatives"")"
+booster preservatives,exact,pentylene glycol,confident,"multifunctional booster (decision: kept separate from ""preservatives"")"
+booster preservatives,exact,hydroxyacetophenone,confident,"multifunctional booster (decision: kept separate from ""preservatives"")"
+booster preservatives,exact,caprylhydroxamic acid,confident,"multifunctional booster (decision: kept separate from ""preservatives"")"
+booster preservatives,exact,sodium levulinate,confident,"multifunctional booster (decision: kept separate from ""preservatives"")"
+booster preservatives,exact,glyceryl caprylate,confident,"multifunctional booster (decision: kept separate from ""preservatives"")"
+booster preservatives,exact,phenylpropanol,confident,booster (decision: phenylpropanol and phenethyl alcohol are more common as boosters than as fragrance)
+booster preservatives,exact,phenethyl alcohol,confident,booster (decision: phenylpropanol and phenethyl alcohol are more common as boosters than as fragrance)
+botanical extracts,exact,aloe barbadensis leaf extract,confident,plant extract (INCI name)
+botanical extracts,exact,camellia sinensis leaf extract,confident,plant extract (INCI name)
+botanical extracts,exact,camellia sinensis (green tea) leaf extract,confident,plant extract (INCI name)
+botanical extracts,exact,calendula officinalis flower extract,confident,plant extract (INCI name)
+botanical extracts,exact,chamomilla recutita (matricaria) flower extract,confident,plant extract (INCI name)
+botanical extracts,exact,chamomilla recutita flower extract,confident,plant extract (INCI name)
+botanical extracts,exact,chamomilla recutita (matricaria) extract,confident,plant extract (INCI name)
+botanical extracts,exact,rosmarinus officinalis leaf extract,confident,plant extract (INCI name)
+botanical extracts,exact,rosmarinus officinalis (rosemary) leaf extract,confident,plant extract (INCI name)
+botanical extracts,exact,cucumis sativus (cucumber) fruit extract,confident,plant extract (INCI name)
+botanical extracts,exact,cucumis sativus fruit extract,confident,plant extract (INCI name)
+botanical extracts,exact,avena sativa (oat) kernel extract,confident,plant extract (INCI name)
+botanical extracts,exact,avena sativa kernel extract,confident,plant extract (INCI name)
+botanical extracts,exact,glycyrrhiza glabra (licorice) root extract,confident,plant extract (INCI name)
+botanical extracts,exact,glycyrrhiza inflata root extract,confident,plant extract (INCI name)
+botanical extracts,exact,persea gratissima (avocado) fruit extract,confident,plant extract (INCI name)
+botanical extracts,exact,carica papaya fruit extract,confident,plant extract (INCI name)
+botanical extracts,exact,carica papaya (papaya) fruit extract,confident,plant extract (INCI name)
+botanical extracts,exact,salix alba (willow) bark extract,confident,plant extract (INCI name)
+botanical extracts,exact,scutellaria baicalensis root extract,confident,plant extract (INCI name)
+botanical extracts,exact,curcuma longa (turmeric) root extract,confident,plant extract (INCI name)
+botanical extracts,exact,rosa canina fruit extract,confident,plant extract (INCI name)
+botanical extracts,exact,zingiber officinale (ginger) root extract,confident,plant extract (INCI name)
+botanical extracts,exact,pyrus malus (apple) fruit extract,confident,plant extract (INCI name)
+botanical extracts,exact,melissa officinalis leaf extract,confident,plant extract (INCI name)
+botanical extracts,exact,centella asiatica extract,confident,plant extract (INCI name)
+botanical extracts,exact,centella asiatica leaf extract,confident,plant extract (INCI name)
+botanical extracts,exact,oryza sativa (rice) bran extract,confident,plant extract (INCI name)
+botanical extracts,exact,ginkgo biloba leaf extract,confident,plant extract (INCI name)
+botanical extracts,exact,citrus limon (lemon) fruit extract,confident,plant extract (INCI name)
+botanical extracts,exact,hamamelis virginiana (witch hazel) leaf extract,confident,plant extract (INCI name)
+botanical extracts,exact,hamamelis virginiana leaf extract,confident,plant extract (INCI name)
+botanical extracts,exact,olea europaea (olive) leaf extract,confident,plant extract (INCI name)
+botanical extracts,exact,arnica montana flower extract,confident,plant extract (INCI name)
+botanical extracts,exact,salvia officinalis leaf extract,confident,plant extract (INCI name)
+botanical extracts,exact,echinacea purpurea extract,confident,plant extract (INCI name)
+botanical extracts,exact,paeonia officinalis flower extract,confident,plant extract (INCI name)
+botanical extracts,exact,passiflora incarnata fruit extract,confident,plant extract (INCI name)
+botanical extracts,exact,hibiscus sabdariffa flower extract,confident,plant extract (INCI name)
+botanical extracts,exact,centaurea cyanus flower extract,confident,plant extract (INCI name)
+botanical extracts,exact,citrus aurantium dulcis (orange) fruit extract,confident,plant extract (INCI name)
+botanical extracts,exact,citrus aurantium dulcis (orange) peel extract,confident,plant extract (INCI name)
+botanical extracts,exact,mangifera indica fruit extract,confident,plant extract (INCI name)
+botanical extracts,exact,propolis extract,confident,sensitizer made by bees from plants (approved as botanical)
+botanical extracts,exact,chondrus crispus extract,confident,seaweed/algae extract (decision: algae count as botanical)
+botanical extracts,exact,fucus vesiculosus extract,confident,seaweed/algae extract (decision: algae count as botanical)
+botanical extracts,exact,laminaria digitata extract,confident,seaweed/algae extract (decision: algae count as botanical)
+botanical extracts,exact,laminaria ochroleuca extract,confident,seaweed/algae extract (decision: algae count as botanical)
+botanical extracts,exact,gelidium sesquipedale extract,confident,seaweed/algae extract (decision: algae count as botanical)
+botanical extracts,exact,ascophyllum nodosum extract,confident,seaweed/algae extract (decision: algae count as botanical)
+botanical extracts,exact,algae extract,confident,seaweed/algae extract (decision: algae count as botanical)
+botanical extracts,exact,spirulina platensis extract,confident,seaweed/algae extract (decision: algae count as botanical)
+botanical extracts,exact,chlorella vulgaris extract,confident,seaweed/algae extract (decision: algae count as botanical)
+botanical extracts,exact,haematococcus pluvialis extract,confident,seaweed/algae extract (decision: algae count as botanical)
+botanical extracts,exact,aloe barbadensis leaf juice,confident,"plant juice/powder, not labeled ""extract"" (approved)"
+botanical extracts,exact,aloe barbadensis leaf juice powder,confident,"plant juice/powder, not labeled ""extract"" (approved)"
+botanical extracts,contains,extract,confident,"CATCH-ALL (decision: keep). Any name containing ""extract""; also catches non-plant ones like yeast or ferment, which over-flags, the safe direction"

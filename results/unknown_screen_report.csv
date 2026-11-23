@@ -1,0 +1,19 @@
+scenario,cutoff,group,products,unparseable,excluded_exact,excluded_possible_only,kept
+synonym file only,10%,all,1484,1480,1,0,3
+synonym file only,10%,US-tagged,280,279,1,0,0
+synonym file only,20%,all,1484,1479,2,0,3
+synonym file only,20%,US-tagged,280,279,1,0,0
+synonym file only,30%,all,1484,1471,8,0,5
+synonym file only,30%,US-tagged,280,278,1,0,1
+proxy: top 500 names also recognized,10%,all,1484,1203,208,2,71
+proxy: top 500 names also recognized,10%,US-tagged,280,256,17,1,6
+proxy: top 500 names also recognized,20%,all,1484,895,445,6,138
+proxy: top 500 names also recognized,20%,US-tagged,280,212,46,3,19
+proxy: top 500 names also recognized,30%,all,1484,666,628,17,173
+proxy: top 500 names also recognized,30%,US-tagged,280,158,91,4,27
+proxy: top 1000 names also recognized,10%,all,1484,994,362,3,125
+proxy: top 1000 names also recognized,10%,US-tagged,280,216,43,2,19
+proxy: top 1000 names also recognized,20%,all,1484,691,602,11,180
+proxy: top 1000 names also recognized,20%,US-tagged,280,139,104,3,34
+proxy: top 1000 names also recognized,30%,all,1484,528,719,19,218
+proxy: top 1000 names also recognized,30%,US-tagged,280,87,139,4,50

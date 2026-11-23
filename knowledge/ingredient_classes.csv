@@ -1,0 +1,52 @@
+class,match,ingredient,confidence,note,position_limit
+retinoids,exact,tretinoin,confident,retinoid (prescription active),
+retinoids,exact,adapalene,confident,retinoid (prescription active),
+retinoids,exact,isotretinoin,confident,retinoid (prescription active),
+retinoids,exact,tazarotene,confident,retinoid (prescription active),
+retinoids,exact,trifarotene,confident,retinoid (prescription active),
+retinoids,exact,retinol,confident,OTC retinoid,
+retinoids,exact,retinal,confident,OTC retinoid,
+retinoids,exact,retinaldehyde,confident,OTC retinoid,
+retinoids,exact,retinyl acetate,confident,OTC retinoid,
+retinoids,exact,retinyl retinoate,confident,OTC retinoid,
+retinoids,exact,hydroxypinacolone retinoate,confident,OTC retinoid,
+retinoids,exact,retinyl palmitate,verify,"vitamin A ester, much weaker than retinol: does it count as a retinoid conflict?",
+retinoids,exact,retinol palmitate,verify,"vitamin A ester, much weaker than retinol: does it count as a retinoid conflict?",
+retinoids,exact,retinyl linoleate,verify,"vitamin A ester, much weaker than retinol: does it count as a retinoid conflict?",
+exfoliating acids,exact,glycolic acid,confident,AHA,
+exfoliating acids,exact,mandelic acid,confident,AHA,
+exfoliating acids,exact,pyruvic acid,confident,AHA,
+exfoliating acids,exact,salicylic acid,confident,BHA,
+exfoliating acids,exact,betaine salicylate,confident,BHA,
+exfoliating acids,exact,capryloyl salicylic acid,confident,BHA,
+exfoliating acids,exact,gluconolactone,confident,PHA (gentler exfoliant),
+exfoliating acids,exact,lactobionic acid,confident,PHA (gentler exfoliant),
+exfoliating acids,exact,lactic acid,verify,AHA but also a common pH/moisturizing ingredient at low levels: does every use count?,
+exfoliating acids,exact,malic acid,verify,"fruit acid, usually a pH adjuster at low levels",
+exfoliating acids,exact,tartaric acid,verify,"fruit acid, usually a pH adjuster at low levels",
+physical scrubs,exact,pumice,confident,abrasive particles,
+physical scrubs,exact,juglans regia shell powder,confident,abrasive particles,
+physical scrubs,exact,prunus armeniaca seed powder,confident,abrasive particles,
+physical scrubs,exact,prunus amygdalus dulcis shell powder,confident,abrasive particles,
+physical scrubs,exact,oryza sativa bran powder,confident,abrasive particles,
+physical scrubs,exact,polyethylene,verify,"particles that can scrub, but also used as texture/film ingredients: check product type",
+physical scrubs,exact,perlite,verify,"particles that can scrub, but also used as texture/film ingredients: check product type",
+physical scrubs,exact,jojoba esters,verify,"particles that can scrub, but also used as texture/film ingredients: check product type",
+physical scrubs,exact,sodium bicarbonate,verify,"particles that can scrub, but also used as texture/film ingredients: check product type",
+high-alcohol astringents,exact,alcohol denat,confident,drying alcohol; counts only if listed near the top of the ingredient list,5
+high-alcohol astringents,exact,isopropyl alcohol,confident,drying alcohol; counts only if listed near the top of the ingredient list,5
+high-alcohol astringents,exact,ethanol,confident,drying alcohol; counts only if listed near the top of the ingredient list,5
+high-alcohol astringents,exact,sd alcohol,confident,drying alcohol; counts only if listed near the top of the ingredient list,5
+high-alcohol astringents,exact,alcohol,verify,"""alcohol"" on a label usually means ethanol, but could be cut off from a fatty alcohol",5
+high-alcohol astringents,exact,hamamelis virginiana water,verify,witch hazel water often contains alcohol: depends on the product,5
+high-alcohol astringents,exact,hamamelis virginiana (witch hazel) water,verify,witch hazel water often contains alcohol: depends on the product,5
+high-alcohol astringents,exact,hamamelis virginiana leaf water,verify,witch hazel water often contains alcohol: depends on the product,5
+benzoyl peroxide,contains,benzoyl peroxide,confident,"any name containing this text (strength like ""2.5%"" is often attached)",
+topical antibiotics,exact,clindamycin,confident,topical antibiotic (prescription only),
+topical antibiotics,exact,erythromycin,confident,topical antibiotic (prescription only),
+topical antibiotics,exact,tetracycline,verify,"antibiotic or antimicrobial, less certain it belongs here",
+topical antibiotics,exact,minocycline,verify,"antibiotic or antimicrobial, less certain it belongs here",
+topical antibiotics,exact,doxycycline,verify,"antibiotic or antimicrobial, less certain it belongs here",
+topical antibiotics,exact,sulfacetamide,verify,"antibiotic or antimicrobial, less certain it belongs here",
+topical antibiotics,exact,metronidazole,verify,"antibiotic or antimicrobial, less certain it belongs here",
+topical antibiotics,exact,dapsone,verify,"antibiotic or antimicrobial, less certain it belongs here",
